@@ -1,0 +1,5 @@
+touch command
+git status command
+git cheery-pick
+git add
+git commit
