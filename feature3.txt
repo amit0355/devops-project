@@ -1,3 +1,5 @@
 This feature is from dev-1.
 reset k baad error Theek kr liya
 added new features by dev-2.
+
+dev1 k feature add kr liye.
